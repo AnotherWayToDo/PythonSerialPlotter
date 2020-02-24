@@ -1,3 +1,7 @@
+#==============================================================================
+#  This tool get datas from the serial port an build graph based on this.
+#  Format : "data;data;data"
+#==============================================================================
 
 # https://python-forum.io/Thread-PyQt-Threading-Class-handling
 import sys
